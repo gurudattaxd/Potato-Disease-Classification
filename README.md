@@ -9,7 +9,7 @@ This deep learning project classifies potato leaf images to determine whether th
 4) Tensorflow dataset
 
 
-#Backend server
+# Backend server
 1) tf serving
 2) Fast API
 
