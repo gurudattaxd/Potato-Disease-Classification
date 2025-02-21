@@ -18,6 +18,7 @@ This deep learning project applies Convolutional Neural Networks (CNNs) to image
 Potato plants are prone to fungal infections like Early Blight and Late Blight, which can severely affect crop yield. This project aims to:
 
 • Train a Convolutional Neural Network (CNN) to classify potato leaves into three categories:
+
   🟢 Healthy
   
   🟠 Early Blight
@@ -45,6 +46,7 @@ Potato plants are prone to fungal infections like Early Blight and Late Blight, 
 # Dataset Details
 
 The dataset consists of 2,152 labeled images, categorized as:
+
 🟢 Healthy: 152 images
 
 🟠 Early Blight: 1,000 images
