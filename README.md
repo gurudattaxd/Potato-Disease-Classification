@@ -19,7 +19,9 @@ Potato plants are prone to fungal infections like Early Blight and Late Blight, 
 
 • Train a Convolutional Neural Network (CNN) to classify potato leaves into three categories:
   🟢 Healthy
+  
   🟠 Early Blight
+  
   🔴 Late Blight
 
 • Achieve high accuracy using TensorFlow and data augmentation techniques.
@@ -29,18 +31,26 @@ Potato plants are prone to fungal infections like Early Blight and Late Blight, 
 # Tools Used
 
 🔹 Programming: Python, TensorFlow, Scikit-learn
+
 🔹 Deep Learning: Convolutional Neural Networks (CNNs)
+
 🔹 Data Processing: Pandas, OpenCV, NumPy
+
 🔹 Deployment: FastAPI, TensorFlow Serving
+
 🔹 Visualization: Matplotlib, Seaborn
+
 
 
 # Dataset Details
 
 The dataset consists of 2,152 labeled images, categorized as:
 🟢 Healthy: 152 images
+
 🟠 Early Blight: 1,000 images
+
 🔴 Late Blight: 1,000 images
+
 
 Dataset source: https://www.kaggle.com/datasets/faysalmiah1721758/potato-dataset
 
